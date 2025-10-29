@@ -54,12 +54,6 @@ Deployed the final Random Forest model using Streamlit, enabling real-time incid
 
 **🧾Note:** Go through the report in the files for a detailed explanation of the approach.  
 
-
-
-## Conclusion
-
-The Random Forest model proved most effective for cybersecurity incident classification, offering high accuracy and scalability for SOC teams. By automating incident categorization, it enables faster, more strategic responses and strengthens organizational resilience against evolving cyber threats. This solution provides a robust, adaptable framework to enhance proactive risk management in an ever-changing digital landscape.
-
 ## How to Use
 
 Clone the repository:
