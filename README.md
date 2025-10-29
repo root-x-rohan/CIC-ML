@@ -10,7 +10,7 @@ Develop a machine learning model to accurately classify cybersecurity incidents 
 
 ## Dataset 
 
-Dataset: Contains features like source and destination IPs, protocols, timestamps, and other network attributes capturing incident patterns.
+Contains features like source and destination IPs, protocols, timestamps, and other network attributes capturing incident patterns. <br>
 Target: incident_category, with labels such as malware, phishing, and network attacks.
 
 ## Business Use Case
