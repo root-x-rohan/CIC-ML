@@ -52,7 +52,7 @@ Deployed the final Random Forest model using Streamlit, enabling real-time incid
 | Logistic Regression | 0.76     | 0.75      | 0.74   |
 
 
-**🧾Note:** Go through report in the files for detailed approach explanation.  
+**🧾Note:** Go through the report in the files for a detailed explanation of the approach.  
 
 
 
