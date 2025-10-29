@@ -1,6 +1,6 @@
 <div align="justify">
   
-# Incident Classifier with Machine Learning in Cybersecurity 🛡️ 
+# Incident Classifier using Machine Learning in Cybersecurity 🛡️ 
 </div>
 
 <div align="justify">
