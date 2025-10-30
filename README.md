@@ -59,7 +59,7 @@ Deployed the final Random Forest model using Streamlit, enabling real-time incid
 **Clone the repository:**
 
 ```bash
-git clone https://github.com/root-x-rohan/cyber-incident-classifier-ML.git
+git clone https://github.com/root-x-rohan/CIC-ML.git
 ```
 
 **Install dependencies:**
